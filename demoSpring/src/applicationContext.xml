@@ -13,6 +13,10 @@
           class="BaseballCoach">
     </bean>
 
+    <bean id="myLocation"
+          class="BaseballCoach">
+    </bean>
+
 
 
     <!-- define the dependency -->

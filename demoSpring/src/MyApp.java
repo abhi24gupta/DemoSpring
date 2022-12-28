@@ -1,5 +1,7 @@
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import java.util.List;
+
 public class MyApp {
     public static void main(String[] args)
     {
@@ -39,12 +41,18 @@ public class MyApp {
         // Call methods on the bean
         System.out.println(theCoach3.getDailyWorkout());
 
-        //close the context
-        context.close();
-
         // Implementation DOne till Video 25
 
+        // Practice Activity #1
+        Coach myLocation = context.getBean("myLocation", Coach.class);
+        List<String> locations1 = myLocation.getLocations();
 
+        for (String s : locations1) {
+            System.out.println(s);
+        }
+
+        //close the context
+        context.close();
 
     }
 }

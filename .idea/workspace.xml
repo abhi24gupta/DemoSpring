@@ -4,79 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Spring IOC Documentation">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring_aop_5_3_9_javadoc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoSpring/src/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aop-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-aspects-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-beans-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-indexer-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-indexer-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-indexer-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-context-support-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-core-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-expression-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-instrument-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jcl-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jcl-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jcl-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jdbc-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jms-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jms-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-jms-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-messaging-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-orm-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-orm-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-orm-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-oxm-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-r2dbc-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-r2dbc-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-r2dbc-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-test-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-test-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-test-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-tx-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-web-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-web-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-web-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webflux-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webflux-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webflux-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webmvc-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webmvc-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-webmvc-5.3.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-websocket-5.3.9-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-websocket-5.3.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/spring-websocket-5.3.9.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoSpring/demoSpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/demoSpring.iml" afterDir="false" />
+    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Implementation done till Video 25">
+      <change beforePath="$PROJECT_DIR$/demoSpring/src/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoSpring/src/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoSpring/src/GymCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/GymCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoSpring/src/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoSpring/src/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoSpring/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -160,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672167572991</updated>
       <workItem from="1672167574191" duration="1186000" />
-      <workItem from="1672211753360" duration="5146000" />
+      <workItem from="1672211753360" duration="6054000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Project Creation">
       <created>1672167781792</created>
@@ -190,17 +125,26 @@
       <option name="project" value="LOCAL" />
       <updated>1672215976947</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Implementation done till Video 25">
+      <created>1672254007795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672254007795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Basic Project Creation" />
     <MESSAGE value="Created basic App with flexibility" />
     <MESSAGE value="New Branch" />
     <MESSAGE value="Spring IOC Documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring IOC Documentation" />
+    <MESSAGE value="Implementation done till Video 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation done till Video 25" />
   </component>
 </project>
