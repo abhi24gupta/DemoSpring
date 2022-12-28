@@ -1,3 +1,5 @@
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
 public class MyApp {
     public static void main(String[] args)
     {
@@ -27,6 +29,20 @@ public class MyApp {
 //            3. Retrieve Beans from Spring Container
 //              Coach theCoach = context.getBean("myCoach", Coach.class);
 
+        // load the Spring Configuration file
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+
+
+        //retireve bean from spring container
+        Coach theCoach3= context.getBean("myCoach3", Coach.class);
+
+        // Call methods on the bean
+        System.out.println(theCoach3.getDailyWorkout());
+
+        //close the context
+        context.close();
+
+        // Implementation DOne till Video 25
 
 
 
