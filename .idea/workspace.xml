@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Practice Activity 1">
-      <change afterPath="$PROJECT_DIR$/demoSpring/src/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoSpring/src/HappyFortuneService.java" afterDir="false" />
+    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Spring Dependency Injection : TIll Video 33">
+      <change afterPath="$PROJECT_DIR$/demoSpring/src/CricketCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoSpring/src/SetterDemoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoSpring/src/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/BaseballCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoSpring/src/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/Coach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoSpring/src/GymCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/GymCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoSpring/src/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/MyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoSpring/src/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/TrackCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoSpring/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +70,7 @@
       <recent name="$PROJECT_DIR$/demoSpring/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SetterDemoApp">
     <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyApp" />
       <module name="demoSpring" />
@@ -83,8 +78,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetterDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetterDemoApp" />
+      <module name="demoSpring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetterDemoApp" />
         <item itemvalue="Application.MyApp" />
       </list>
     </recent_temporary>
@@ -98,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672167572991</updated>
       <workItem from="1672167574191" duration="1186000" />
-      <workItem from="1672211753360" duration="9859000" />
+      <workItem from="1672211753360" duration="11379000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Project Creation">
       <created>1672167781792</created>
@@ -142,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672254811696</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Spring Dependency Injection : TIll Video 33">
+      <created>1672260998091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672260998091</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +166,7 @@
     <MESSAGE value="Spring IOC Documentation" />
     <MESSAGE value="Implementation done till Video 25" />
     <MESSAGE value="Practice Activity 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice Activity 1" />
+    <MESSAGE value="Spring Dependency Injection : TIll Video 33" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Dependency Injection : TIll Video 33" />
   </component>
 </project>

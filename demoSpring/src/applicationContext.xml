@@ -24,6 +24,12 @@
         <constructor-arg ref="myFortune" />
     </bean>
 
+    <bean id="myCricketCoach"
+          class="CricketCoach">
+<!--        Set up Setter Injection-->
+        <property name="fortuneService" ref="myFortune" />
+    </bean>
+
 
 
 
