@@ -11,4 +11,9 @@ public  class GymCoach implements Coach{
     public List<String> getLocations() {
         return null;
     }
+
+    @Override
+    public String getDailyFortune() {
+        return null;
+    }
 }

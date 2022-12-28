@@ -1,21 +1,11 @@
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import java.sql.SQLOutput;
 import java.util.List;
 
 public class MyApp {
     public static void main(String[] args)
     {
-        // Get Workout of Baseball Coach
-        Coach theCoach = new BaseballCoach();
-        System.out.println(theCoach.getDailyWorkout());
-
-
-        // Get Workput for the Gymnastics
-        Coach theCoach1= new GymCoach();
-        System.out.println(theCoach1.getDailyWorkout());
-
-        Coach theCoach2 = new TrackCoach();
-        System.out.println(theCoach2.getDailyWorkout());
 
         // Video 22: Spring Inversion of Control
 //        Spring Development Process
@@ -33,26 +23,20 @@ public class MyApp {
 
         // load the Spring Configuration file
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+//        Section 5 : Video 29
+//            Constructor Injection
+//                    1. Define the dependency interface and class
+//                    2. Create a constructor in your class for injections
+//                    3. Configure the dependency injection in Spring config file
 
+        Coach theCoach = context.getBean("myCoach",Coach.class);
+        System.out.println(theCoach.getDailyWorkout());
 
-        //retireve bean from spring container
-        Coach theCoach3= context.getBean("myCoach3", Coach.class);
+        System.out.println(theCoach.getDailyFortune());
 
-        // Call methods on the bean
-        System.out.println(theCoach3.getDailyWorkout());
-
-        // Implementation DOne till Video 25
-
-        // Practice Activity #1
-        Coach myLocation = context.getBean("myLocation", Coach.class);
-        List<String> locations1 = myLocation.getLocations();
-
-        for (String s : locations1) {
-            System.out.println(s);
-        }
-
-        //close the context
+        Coach theTrackCoach = context.getBean("myTrackCoach",Coach.class);
+        System.out.println(theTrackCoach.getDailyWorkout());
+        System.out.println(theTrackCoach.getDailyFortune());
         context.close();
-
     }
 }

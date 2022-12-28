@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Implementation done till Video 25">
+    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Practice Activity 1">
+      <change afterPath="$PROJECT_DIR$/demoSpring/src/FortuneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demoSpring/src/HappyFortuneService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoSpring/src/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/BaseballCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoSpring/src/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/Coach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoSpring/src/GymCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/GymCoach.java" afterDir="false" />
@@ -28,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="section4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672167572991</updated>
       <workItem from="1672167574191" duration="1186000" />
-      <workItem from="1672211753360" duration="6054000" />
+      <workItem from="1672211753360" duration="9859000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Project Creation">
       <created>1672167781792</created>
@@ -132,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672254007795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practice Activity 1">
+      <created>1672254811696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672254811696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +155,7 @@
     <MESSAGE value="New Branch" />
     <MESSAGE value="Spring IOC Documentation" />
     <MESSAGE value="Implementation done till Video 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementation done till Video 25" />
+    <MESSAGE value="Practice Activity 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Activity 1" />
   </component>
 </project>
