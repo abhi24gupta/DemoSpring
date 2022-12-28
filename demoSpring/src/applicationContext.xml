@@ -28,7 +28,11 @@
           class="CricketCoach">
 <!--        Set up Setter Injection-->
         <property name="fortuneService" ref="myFortune" />
+        <property name="emailAddress" value="abhinav24khandelwal@gmail.com" />
+        <property name="team" value="India" />
     </bean>
+
+
 
 
 

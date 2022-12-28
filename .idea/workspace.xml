@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Spring Dependency Injection : TIll Video 33">
-      <change afterPath="$PROJECT_DIR$/demoSpring/src/CricketCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoSpring/src/SetterDemoApp.java" afterDir="false" />
+    <list default="true" id="d09256c3-d8fb-4243-80ca-4680313e8d2b" name="Changes" comment="Setter Injection : Video 37">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoSpring/src/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/CricketCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demoSpring/src/SetterDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/SetterDemoApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demoSpring/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demoSpring/src/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672167572991</updated>
       <workItem from="1672167574191" duration="1186000" />
-      <workItem from="1672211753360" duration="11379000" />
+      <workItem from="1672211753360" duration="12832000" />
     </task>
     <task id="LOCAL-00001" summary="Basic Project Creation">
       <created>1672167781792</created>
@@ -152,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672260998091</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Setter Injection : Video 37">
+      <created>1672262666950</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672262666950</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +174,7 @@
     <MESSAGE value="Implementation done till Video 25" />
     <MESSAGE value="Practice Activity 1" />
     <MESSAGE value="Spring Dependency Injection : TIll Video 33" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring Dependency Injection : TIll Video 33" />
+    <MESSAGE value="Setter Injection : Video 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="Setter Injection : Video 37" />
   </component>
 </project>
